@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(230, 230, 230);        /* black */
+  color: rgb(30, 30, 30);     /* dark grey */
+  color: rgb(120, 120, 120);  /* medium grey */
+  color: rgb(240, 240, 240);  /* light grey */
+  color: rgb(0, 0, 0);  
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  color: darkred;
+  font-family: bleu;
+  font-weight: 100;
+  letter-spacing: 5px;
+  font-size: 32px;
+  font-family: 'Roboto', sans-serif;
+ } 
+
+ h2 {
+  color: rgb(120,120,120);
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: 'Zen Antique Soft', serif;
+
+
+}
+a { 
+  text-decoration: underline;
+  color: blueviolet;
+} 
+a:hover { 
+  color: darkred;
+}   
+
+div { 
+  background: beige;
+  border: 2px solid black ;
+  margin: 15px;
+  text-align: center;
+ }  
+  
+.btn-bleu {
+  background-color:bleu;
+  color: orange;
+  padding:15px 20px ;
+  border-radius: 4px;
+  
+
+} 
